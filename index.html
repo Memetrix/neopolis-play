@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>NeoPolis</title>
+  <!-- Telegram Mini App SDK: локальная копия официального скрипта
+       (селф-хост допустим) — недоступность CDN telegram.org не блокирует
+       парсинг. Классический sync-скрипт исполняется ДО модуля игры —
+       boot() уже видит window.Telegram.
+       Обновление: curl -fsSL https://telegram.org/js/telegram-web-app.js
+                     -o public/vendor/telegram-web-app.js -->
+  <script src="./vendor/telegram-web-app.js"></script>
+  <script type="module" crossorigin src="./assets/index-X-s1ISfw.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-Bd5QUjce.css">
+</head>
+<body>
+  <div id="app"></div>
+  <div id="ui-root"></div>
+</body>
+</html>

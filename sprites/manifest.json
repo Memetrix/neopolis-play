@@ -1,0 +1,422 @@
+{
+ "aquarium_flat": {
+  "height_t": 2.57,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "ball_stadium": {
+  "height_t": 2.88,
+  "plate_px": 209.1,
+  "plate_frac": 0.917,
+  "tiles": 2
+ },
+ "battery_station": {
+  "height_t": 2.35,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "bell_fire": {
+  "height_t": 2.4,
+  "plate_px": 178.9,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "birdhouse": {
+  "height_t": 2.4,
+  "plate_px": 212.9,
+  "plate_frac": 0.883,
+  "tiles": 1
+ },
+ "block_tower": {
+  "height_t": 3.2,
+  "plate_px": 215.6,
+  "plate_frac": 0.896,
+  "tiles": 1
+ },
+ "book_shop": {
+  "height_t": 2.1,
+  "plate_px": 162.6,
+  "plate_frac": 0.954,
+  "tiles": 1
+ },
+ "boot_house": {
+  "height_t": 2.0,
+  "plate_px": 144.0,
+  "plate_frac": 0.983,
+  "tiles": 1
+ },
+ "burger_diner": {
+  "height_t": 1.7,
+  "plate_px": 123.0,
+  "plate_frac": 0.892,
+  "tiles": 1
+ },
+ "candy_plant": {
+  "height_t": 2.7,
+  "plate_px": 195.8,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "cheese_dairy": {
+  "height_t": 2.0,
+  "plate_px": 146.2,
+  "plate_frac": 0.904,
+  "tiles": 1
+ },
+ "circus_tent": {
+  "height_t": 3.52,
+  "plate_px": 256.8,
+  "plate_frac": 0.915,
+  "tiles": 2
+ },
+ "clock_hall": {
+  "height_t": 3.22,
+  "plate_px": 234.4,
+  "plate_frac": 0.804,
+  "tiles": 2
+ },
+ "cloud_condo": {
+  "height_t": 2.71,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "coin_bank": {
+  "height_t": 2.4,
+  "plate_px": 197.8,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "croissant_bakery": {
+  "height_t": 2.0,
+  "plate_px": 147.0,
+  "plate_frac": 0.558,
+  "tiles": 1
+ },
+ "dice_casino": {
+  "height_t": 2.5,
+  "plate_px": 201.1,
+  "plate_frac": 0.762,
+  "tiles": 1
+ },
+ "dino_museum": {
+  "height_t": 3.71,
+  "plate_px": 270.1,
+  "plate_frac": 0.917,
+  "tiles": 2
+ },
+ "envelope_post": {
+  "height_t": 1.8,
+  "plate_px": 144.2,
+  "plate_frac": 0.592,
+  "tiles": 1
+ },
+ "ferris_wheel": {
+  "height_t": 3.04,
+  "plate_px": 240.0,
+  "plate_frac": 0.983,
+  "tiles": 1
+ },
+ "flower_shop": {
+  "height_t": 1.9,
+  "plate_px": 144.1,
+  "plate_frac": 0.867,
+  "tiles": 1
+ },
+ "gear_factory": {
+  "height_t": 3.45,
+  "plate_px": 251.0,
+  "plate_frac": 0.917,
+  "tiles": 2
+ },
+ "gift_mall": {
+  "height_t": 2.93,
+  "plate_px": 212.9,
+  "plate_frac": 0.912,
+  "tiles": 2
+ },
+ "gramophone_music": {
+  "height_t": 2.3,
+  "plate_px": 194.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "hat_boutique": {
+  "height_t": 2.0,
+  "plate_px": 145.0,
+  "plate_frac": 0.95,
+  "tiles": 1
+ },
+ "hive_tower": {
+  "height_t": 2.6,
+  "plate_px": 216.6,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "hut": {
+  "height_t": 1.6,
+  "plate_px": 118.2,
+  "plate_frac": 0.738,
+  "tiles": 1
+ },
+ "icecream_shop": {
+  "height_t": 2.2,
+  "plate_px": 184.0,
+  "plate_frac": 0.762,
+  "tiles": 1
+ },
+ "karaoke_mic": {
+  "height_t": 2.4,
+  "plate_px": 225.8,
+  "plate_frac": 0.938,
+  "tiles": 1
+ },
+ "kettle_plant": {
+  "height_t": 2.6,
+  "plate_px": 238.8,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "mask_theater": {
+  "height_t": 2.5,
+  "plate_px": 203.8,
+  "plate_frac": 0.892,
+  "tiles": 1
+ },
+ "mushroom_house": {
+  "height_t": 1.9,
+  "plate_px": 142.7,
+  "plate_frac": 0.846,
+  "tiles": 1
+ },
+ "mushroom_park": {
+  "height_t": 3.13,
+  "plate_px": 228.3,
+  "plate_frac": 0.917,
+  "tiles": 2
+ },
+ "pencil_school": {
+  "height_t": 2.8,
+  "plate_px": 233.7,
+  "plate_frac": 0.992,
+  "tiles": 1
+ },
+ "pill_clinic": {
+  "height_t": 2.47,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "pinwheel_wind": {
+  "height_t": 2.74,
+  "plate_px": 240.0,
+  "plate_frac": 0.771,
+  "tiles": 1
+ },
+ "pizza_place": {
+  "height_t": 1.8,
+  "plate_px": 152.6,
+  "plate_frac": 0.821,
+  "tiles": 1
+ },
+ "popcorn_cinema": {
+  "height_t": 2.6,
+  "plate_px": 226.5,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "pumpkin_house": {
+  "height_t": 1.7,
+  "plate_px": 122.6,
+  "plate_frac": 0.792,
+  "tiles": 1
+ },
+ "robo_works": {
+  "height_t": 2.71,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "sawmill": {
+  "height_t": 2.2,
+  "plate_px": 159.1,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "scales_court": {
+  "height_t": 2.7,
+  "plate_px": 214.7,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "scissors_salon": {
+  "height_t": 1.9,
+  "plate_px": 136.8,
+  "plate_frac": 0.883,
+  "tiles": 1
+ },
+ "sunflower_solar": {
+  "height_t": 2.0,
+  "plate_px": 203.5,
+  "plate_frac": 0.871,
+  "tiles": 1
+ },
+ "teacup_cafe": {
+  "height_t": 1.8,
+  "plate_px": 130.5,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "teapot_house": {
+  "height_t": 1.8,
+  "plate_px": 132.7,
+  "plate_frac": 0.825,
+  "tiles": 1
+ },
+ "toy_works": {
+  "height_t": 2.5,
+  "plate_px": 194.7,
+  "plate_frac": 0.779,
+  "tiles": 1
+ },
+ "wave_pool": {
+  "height_t": 3.03,
+  "plate_px": 221.8,
+  "plate_frac": 0.919,
+  "tiles": 2
+ },
+ "whale_fountain": {
+  "height_t": 1.5,
+  "plate_px": 108.2,
+  "plate_frac": 0.762,
+  "tiles": 1
+ },
+ "whistle_police": {
+  "height_t": 2.2,
+  "plate_px": 160.2,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "vox_arcade": {
+  "height_t": 2.1,
+  "plate_px": 172.2,
+  "plate_frac": 0.729,
+  "tiles": 1
+ },
+ "vox_bakery": {
+  "height_t": 1.8,
+  "plate_px": 131.5,
+  "plate_frac": 0.85,
+  "tiles": 1
+ },
+ "vox_cafe": {
+  "height_t": 1.9,
+  "plate_px": 137.9,
+  "plate_frac": 0.908,
+  "tiles": 1
+ },
+ "vox_carousel": {
+  "height_t": 1.9,
+  "plate_px": 171.2,
+  "plate_frac": 0.867,
+  "tiles": 1
+ },
+ "vox_castle": {
+  "height_t": 3.12,
+  "plate_px": 228.4,
+  "plate_frac": 0.917,
+  "tiles": 2
+ },
+ "vox_clinic": {
+  "height_t": 2.1,
+  "plate_px": 152.3,
+  "plate_frac": 0.996,
+  "tiles": 1
+ },
+ "vox_cottage": {
+  "height_t": 1.7,
+  "plate_px": 144.4,
+  "plate_frac": 0.654,
+  "tiles": 1
+ },
+ "vox_firehouse": {
+  "height_t": 2.2,
+  "plate_px": 171.9,
+  "plate_frac": 0.967,
+  "tiles": 1
+ },
+ "vox_fountain": {
+  "height_t": 1.4,
+  "plate_px": 102.7,
+  "plate_frac": 0.675,
+  "tiles": 1
+ },
+ "vox_inn": {
+  "height_t": 2.2,
+  "plate_px": 180.1,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "vox_market": {
+  "height_t": 2.36,
+  "plate_px": 173.4,
+  "plate_frac": 0.915,
+  "tiles": 2
+ },
+ "vox_mine": {
+  "height_t": 1.7,
+  "plate_px": 123.3,
+  "plate_frac": 0.858,
+  "tiles": 1
+ },
+ "vox_reactor": {
+  "height_t": 2.9,
+  "plate_px": 237.3,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "vox_school": {
+  "height_t": 3.16,
+  "plate_px": 230.6,
+  "plate_frac": 0.917,
+  "tiles": 2
+ },
+ "vox_solar": {
+  "height_t": 1.5,
+  "plate_px": 93.5,
+  "plate_frac": 0.338,
+  "tiles": 1
+ },
+ "vox_tower_home": {
+  "height_t": 2.59,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "vox_townhouse": {
+  "height_t": 2.3,
+  "plate_px": 196.5,
+  "plate_frac": 0.758,
+  "tiles": 1
+ },
+ "vox_treehouse": {
+  "height_t": 2.55,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "vox_windmill": {
+  "height_t": 2.63,
+  "plate_px": 240.0,
+  "plate_frac": 1.0,
+  "tiles": 1
+ },
+ "vox_workshop": {
+  "height_t": 1.9,
+  "plate_px": 145.1,
+  "plate_frac": 0.871,
+  "tiles": 1
+ }
+}
