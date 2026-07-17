@@ -54,10 +54,10 @@
   "tiles": 1
  },
  "candy_plant": {
-  "height_t": 2.7,
-  "plate_px": 195.8,
-  "plate_frac": 1.0,
-  "tiles": 1
+  "height_t": 3.88,
+  "plate_px": 281.1,
+  "plate_frac": 0.586,
+  "tiles": 2
  },
  "cheese_dairy": {
   "height_t": 2.0,
@@ -180,10 +180,10 @@
   "tiles": 1
  },
  "mask_theater": {
-  "height_t": 2.5,
-  "plate_px": 203.8,
-  "plate_frac": 0.892,
-  "tiles": 1
+  "height_t": 3.25,
+  "plate_px": 265.0,
+  "plate_frac": 0.552,
+  "tiles": 2
  },
  "mushroom_house": {
   "height_t": 1.9,
@@ -240,10 +240,10 @@
   "tiles": 1
  },
  "sawmill": {
-  "height_t": 2.2,
-  "plate_px": 159.1,
-  "plate_frac": 1.0,
-  "tiles": 1
+  "height_t": 3.1,
+  "plate_px": 223.8,
+  "plate_frac": 0.466,
+  "tiles": 2
  },
  "scales_court": {
   "height_t": 2.7,
@@ -372,10 +372,10 @@
   "tiles": 1
  },
  "vox_reactor": {
-  "height_t": 2.9,
-  "plate_px": 237.3,
-  "plate_frac": 1.0,
-  "tiles": 1
+  "height_t": 4.07,
+  "plate_px": 332.9,
+  "plate_frac": 0.694,
+  "tiles": 2
  },
  "vox_school": {
   "height_t": 3.16,
