@@ -90,16 +90,18 @@
   "tiles": 1
  },
  "croissant_bakery": {
-  "height_t": 2.0,
-  "plate_px": 147.0,
-  "plate_frac": 0.617,
-  "tiles": 1
+  "height_t": 2.89,
+  "plate_px": 331.2,
+  "plate_frac": 0.92,
+  "tw": 2,
+  "td": 1
  },
  "dice_casino": {
-  "height_t": 2.5,
-  "plate_px": 201.1,
-  "plate_frac": 0.858,
-  "tiles": 1
+  "height_t": 3.51,
+  "plate_px": 330.2,
+  "plate_frac": 0.917,
+  "tw": 2,
+  "td": 1
  },
  "dino_museum": {
   "height_t": 3.71,
@@ -384,10 +386,11 @@
   "tiles": 2
  },
  "vox_solar": {
-  "height_t": 1.5,
-  "plate_px": 93.5,
-  "plate_frac": 0.388,
-  "tiles": 1
+  "height_t": 2.19,
+  "plate_px": 252.2,
+  "plate_frac": 0.7,
+  "tw": 2,
+  "td": 1
  },
  "vox_tower_home": {
   "height_t": 2.59,
