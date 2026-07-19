@@ -8,7 +8,7 @@
  "ball_stadium": {
   "height_t": 2.88,
   "plate_px": 209.1,
-  "plate_frac": 0.917,
+  "plate_frac": 0.546,
   "tiles": 2
  },
  "battery_station": {
@@ -20,13 +20,13 @@
  "bell_fire": {
   "height_t": 2.4,
   "plate_px": 178.9,
-  "plate_frac": 1.0,
+  "plate_frac": 0.929,
   "tiles": 1
  },
  "birdhouse": {
   "height_t": 2.4,
   "plate_px": 212.9,
-  "plate_frac": 0.883,
+  "plate_frac": 0.887,
   "tiles": 1
  },
  "block_tower": {
@@ -38,43 +38,43 @@
  "book_shop": {
   "height_t": 2.1,
   "plate_px": 162.6,
-  "plate_frac": 0.954,
+  "plate_frac": 0.842,
   "tiles": 1
  },
  "boot_house": {
   "height_t": 2.0,
   "plate_px": 144.0,
-  "plate_frac": 0.983,
+  "plate_frac": 0.754,
   "tiles": 1
  },
  "burger_diner": {
   "height_t": 1.7,
   "plate_px": 123.0,
-  "plate_frac": 0.892,
+  "plate_frac": 0.642,
   "tiles": 1
  },
  "candy_plant": {
   "height_t": 3.88,
   "plate_px": 281.1,
-  "plate_frac": 0.586,
+  "plate_frac": 0.738,
   "tiles": 2
  },
  "cheese_dairy": {
   "height_t": 2.0,
   "plate_px": 146.2,
-  "plate_frac": 0.904,
+  "plate_frac": 0.75,
   "tiles": 1
  },
  "circus_tent": {
   "height_t": 3.52,
   "plate_px": 256.8,
-  "plate_frac": 0.915,
+  "plate_frac": 0.665,
   "tiles": 2
  },
  "clock_hall": {
   "height_t": 3.22,
   "plate_px": 234.4,
-  "plate_frac": 0.804,
+  "plate_frac": 0.613,
   "tiles": 2
  },
  "cloud_condo": {
@@ -92,49 +92,49 @@
  "croissant_bakery": {
   "height_t": 2.0,
   "plate_px": 147.0,
-  "plate_frac": 0.558,
+  "plate_frac": 0.617,
   "tiles": 1
  },
  "dice_casino": {
   "height_t": 2.5,
   "plate_px": 201.1,
-  "plate_frac": 0.762,
+  "plate_frac": 0.858,
   "tiles": 1
  },
  "dino_museum": {
   "height_t": 3.71,
   "plate_px": 270.1,
-  "plate_frac": 0.917,
+  "plate_frac": 0.704,
   "tiles": 2
  },
  "envelope_post": {
   "height_t": 1.8,
   "plate_px": 144.2,
-  "plate_frac": 0.592,
+  "plate_frac": 0.654,
   "tiles": 1
  },
  "ferris_wheel": {
   "height_t": 3.04,
   "plate_px": 240.0,
-  "plate_frac": 0.983,
+  "plate_frac": 1.0,
   "tiles": 1
  },
  "flower_shop": {
   "height_t": 1.9,
   "plate_px": 144.1,
-  "plate_frac": 0.867,
+  "plate_frac": 0.738,
   "tiles": 1
  },
  "gear_factory": {
   "height_t": 3.45,
   "plate_px": 251.0,
-  "plate_frac": 0.917,
+  "plate_frac": 0.65,
   "tiles": 2
  },
  "gift_mall": {
   "height_t": 2.93,
   "plate_px": 212.9,
-  "plate_frac": 0.912,
+  "plate_frac": 0.55,
   "tiles": 2
  },
  "gramophone_music": {
@@ -146,7 +146,7 @@
  "hat_boutique": {
   "height_t": 2.0,
   "plate_px": 145.0,
-  "plate_frac": 0.95,
+  "plate_frac": 0.742,
   "tiles": 1
  },
  "hive_tower": {
@@ -158,7 +158,7 @@
  "hut": {
   "height_t": 1.6,
   "plate_px": 118.2,
-  "plate_frac": 0.738,
+  "plate_frac": 0.613,
   "tiles": 1
  },
  "icecream_shop": {
@@ -182,25 +182,25 @@
  "mask_theater": {
   "height_t": 3.25,
   "plate_px": 265.0,
-  "plate_frac": 0.552,
+  "plate_frac": 0.625,
   "tiles": 2
  },
  "mushroom_house": {
   "height_t": 1.9,
   "plate_px": 142.7,
-  "plate_frac": 0.846,
+  "plate_frac": 0.733,
   "tiles": 1
  },
  "mushroom_park": {
   "height_t": 3.13,
   "plate_px": 228.3,
-  "plate_frac": 0.917,
+  "plate_frac": 0.592,
   "tiles": 2
  },
  "pencil_school": {
   "height_t": 2.8,
   "plate_px": 233.7,
-  "plate_frac": 0.992,
+  "plate_frac": 1.0,
   "tiles": 1
  },
  "pill_clinic": {
@@ -212,13 +212,13 @@
  "pinwheel_wind": {
   "height_t": 2.74,
   "plate_px": 240.0,
-  "plate_frac": 0.771,
+  "plate_frac": 1.0,
   "tiles": 1
  },
  "pizza_place": {
   "height_t": 1.8,
   "plate_px": 152.6,
-  "plate_frac": 0.821,
+  "plate_frac": 0.783,
   "tiles": 1
  },
  "popcorn_cinema": {
@@ -230,7 +230,7 @@
  "pumpkin_house": {
   "height_t": 1.7,
   "plate_px": 122.6,
-  "plate_frac": 0.792,
+  "plate_frac": 0.629,
   "tiles": 1
  },
  "robo_works": {
@@ -242,7 +242,7 @@
  "sawmill": {
   "height_t": 3.1,
   "plate_px": 223.8,
-  "plate_frac": 0.466,
+  "plate_frac": 0.585,
   "tiles": 2
  },
  "scales_court": {
@@ -254,7 +254,7 @@
  "scissors_salon": {
   "height_t": 1.9,
   "plate_px": 136.8,
-  "plate_frac": 0.883,
+  "plate_frac": 0.704,
   "tiles": 1
  },
  "sunflower_solar": {
@@ -266,127 +266,127 @@
  "teacup_cafe": {
   "height_t": 1.8,
   "plate_px": 130.5,
-  "plate_frac": 1.0,
+  "plate_frac": 0.679,
   "tiles": 1
  },
  "teapot_house": {
   "height_t": 1.8,
   "plate_px": 132.7,
-  "plate_frac": 0.825,
+  "plate_frac": 0.679,
   "tiles": 1
  },
  "toy_works": {
   "height_t": 2.5,
   "plate_px": 194.7,
-  "plate_frac": 0.779,
+  "plate_frac": 0.863,
   "tiles": 1
  },
  "wave_pool": {
   "height_t": 3.03,
   "plate_px": 221.8,
-  "plate_frac": 0.919,
+  "plate_frac": 0.575,
   "tiles": 2
  },
  "whale_fountain": {
   "height_t": 1.5,
   "plate_px": 108.2,
-  "plate_frac": 0.762,
+  "plate_frac": 0.558,
   "tiles": 1
  },
  "whistle_police": {
   "height_t": 2.2,
   "plate_px": 160.2,
-  "plate_frac": 1.0,
+  "plate_frac": 0.821,
   "tiles": 1
  },
  "vox_arcade": {
   "height_t": 2.1,
   "plate_px": 172.2,
-  "plate_frac": 0.729,
+  "plate_frac": 0.792,
   "tiles": 1
  },
  "vox_bakery": {
   "height_t": 1.8,
   "plate_px": 131.5,
-  "plate_frac": 0.85,
+  "plate_frac": 0.667,
   "tiles": 1
  },
  "vox_cafe": {
   "height_t": 1.9,
   "plate_px": 137.9,
-  "plate_frac": 0.908,
+  "plate_frac": 0.721,
   "tiles": 1
  },
  "vox_carousel": {
   "height_t": 1.9,
   "plate_px": 171.2,
-  "plate_frac": 0.867,
+  "plate_frac": 0.854,
   "tiles": 1
  },
  "vox_castle": {
   "height_t": 3.12,
   "plate_px": 228.4,
-  "plate_frac": 0.917,
+  "plate_frac": 0.594,
   "tiles": 2
  },
  "vox_clinic": {
   "height_t": 2.1,
   "plate_px": 152.3,
-  "plate_frac": 0.996,
+  "plate_frac": 0.779,
   "tiles": 1
  },
  "vox_cottage": {
   "height_t": 1.7,
   "plate_px": 144.4,
-  "plate_frac": 0.654,
+  "plate_frac": 0.679,
   "tiles": 1
  },
  "vox_firehouse": {
   "height_t": 2.2,
   "plate_px": 171.9,
-  "plate_frac": 0.967,
+  "plate_frac": 0.892,
   "tiles": 1
  },
  "vox_fountain": {
   "height_t": 1.4,
   "plate_px": 102.7,
-  "plate_frac": 0.675,
+  "plate_frac": 0.533,
   "tiles": 1
  },
  "vox_inn": {
   "height_t": 2.2,
   "plate_px": 180.1,
-  "plate_frac": 1.0,
+  "plate_frac": 0.942,
   "tiles": 1
  },
  "vox_market": {
   "height_t": 2.36,
   "plate_px": 173.4,
-  "plate_frac": 0.915,
+  "plate_frac": 0.444,
   "tiles": 2
  },
  "vox_mine": {
   "height_t": 1.7,
   "plate_px": 123.3,
-  "plate_frac": 0.858,
+  "plate_frac": 0.633,
   "tiles": 1
  },
  "vox_reactor": {
   "height_t": 4.07,
   "plate_px": 332.9,
-  "plate_frac": 0.694,
+  "plate_frac": 0.842,
   "tiles": 2
  },
  "vox_school": {
   "height_t": 3.16,
   "plate_px": 230.6,
-  "plate_frac": 0.917,
+  "plate_frac": 0.598,
   "tiles": 2
  },
  "vox_solar": {
   "height_t": 1.5,
   "plate_px": 93.5,
-  "plate_frac": 0.338,
+  "plate_frac": 0.388,
   "tiles": 1
  },
  "vox_tower_home": {
@@ -398,7 +398,7 @@
  "vox_townhouse": {
   "height_t": 2.3,
   "plate_px": 196.5,
-  "plate_frac": 0.758,
+  "plate_frac": 0.817,
   "tiles": 1
  },
  "vox_treehouse": {
@@ -416,7 +416,7 @@
  "vox_workshop": {
   "height_t": 1.9,
   "plate_px": 145.1,
-  "plate_frac": 0.871,
+  "plate_frac": 0.733,
   "tiles": 1
  }
 }

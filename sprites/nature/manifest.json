@@ -2,7 +2,7 @@
  "vox_lamp": {
   "height_t": 1.6,
   "plate_px": 118.0,
-  "plate_frac": 0.492,
+  "plate_frac": 0.496,
   "tiles": 1
  },
  "forest_apple_accent": {
@@ -20,13 +20,13 @@
  "forest_bush_round": {
   "height_t": 0.8,
   "plate_px": 58.3,
-  "plate_frac": 0.442,
+  "plate_frac": 0.296,
   "tiles": 1
  },
  "forest_oak_big": {
   "height_t": 2.1,
   "plate_px": 199.0,
-  "plate_frac": 0.908,
+  "plate_frac": 0.904,
   "tiles": 1
  },
  "forest_oak_mid": {
@@ -38,7 +38,7 @@
  "forest_oak_small": {
   "height_t": 1.2,
   "plate_px": 101.9,
-  "plate_frac": 0.55,
+  "plate_frac": 0.517,
   "tiles": 1
  },
  "forest_pine_big": {
@@ -50,7 +50,7 @@
  "forest_pine_mid": {
   "height_t": 1.7,
   "plate_px": 142.0,
-  "plate_frac": 0.775,
+  "plate_frac": 0.721,
   "tiles": 1
  }
 }
